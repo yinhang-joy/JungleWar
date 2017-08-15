@@ -1,0 +1,11 @@
+K:\Bank\learn\JungleWar\JungleWarServer\MySql数据库操作\bin\Debug\MySql数据库操作.exe.config
+K:\Bank\learn\JungleWar\JungleWarServer\MySql数据库操作\bin\Debug\MySql数据库操作.exe
+K:\Bank\learn\JungleWar\JungleWarServer\MySql数据库操作\bin\Debug\MySql数据库操作.pdb
+K:\Bank\learn\JungleWar\JungleWarServer\MySql数据库操作\bin\Debug\MySql.Data.dll
+K:\Bank\learn\JungleWar\JungleWarServer\MySql数据库操作\bin\Debug\MySql.Data.xml
+K:\Bank\learn\JungleWar\JungleWarServer\MySql数据库操作\obj\Debug\MySql数据库操作.csprojResolveAssemblyReference.cache
+K:\Bank\learn\JungleWar\JungleWarServer\MySql数据库操作\obj\Debug\MySql数据库操作.exe
+K:\Bank\learn\JungleWar\JungleWarServer\MySql数据库操作\obj\Debug\MySql数据库操作.pdb
+K:\Bank\learn\JungleWar\MySql数据库操作\bin\Debug\MySql数据库操作.exe.config
+K:\Bank\learn\JungleWar\MySql数据库操作\obj\Debug\MySql数据库操作.exe
+K:\Bank\learn\JungleWar\MySql数据库操作\obj\Debug\MySql数据库操作.pdb

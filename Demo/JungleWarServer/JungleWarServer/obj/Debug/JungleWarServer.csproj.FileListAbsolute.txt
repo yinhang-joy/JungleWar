@@ -1,0 +1,6 @@
+K:\Bank\learn\JungleWar\JungleWarServer\JungleWarServer\bin\Debug\JungleWarServer.exe.config
+K:\Bank\learn\JungleWar\JungleWarServer\JungleWarServer\bin\Debug\JungleWarServer.exe
+K:\Bank\learn\JungleWar\JungleWarServer\JungleWarServer\bin\Debug\JungleWarServer.pdb
+K:\Bank\learn\JungleWar\JungleWarServer\JungleWarServer\obj\Debug\JungleWarServer.csprojResolveAssemblyReference.cache
+K:\Bank\learn\JungleWar\JungleWarServer\JungleWarServer\obj\Debug\JungleWarServer.exe
+K:\Bank\learn\JungleWar\JungleWarServer\JungleWarServer\obj\Debug\JungleWarServer.pdb

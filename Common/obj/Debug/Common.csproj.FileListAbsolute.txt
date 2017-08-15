@@ -1,0 +1,6 @@
+K:\Bank\learn\JungleWar\Common\bin\Debug\Common.dll
+K:\Bank\learn\JungleWar\Common\bin\Debug\Common.pdb
+K:\Bank\learn\JungleWar\Common\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+K:\Bank\learn\JungleWar\Common\obj\Debug\Common.dll
+K:\Bank\learn\JungleWar\Common\obj\Debug\Common.pdb
+K:\Bank\learn\JungleWar\Common\obj\Debug\Common.csprojFakesResolveAssemblyReference.cache

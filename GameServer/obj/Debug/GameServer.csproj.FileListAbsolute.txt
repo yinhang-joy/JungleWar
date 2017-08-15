@@ -1,0 +1,10 @@
+K:\Bank\learn\JungleWar\GameServer\bin\Debug\GameServer.exe.config
+K:\Bank\learn\JungleWar\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+K:\Bank\learn\JungleWar\GameServer\bin\Debug\GameServer.exe
+K:\Bank\learn\JungleWar\GameServer\bin\Debug\GameServer.pdb
+K:\Bank\learn\JungleWar\GameServer\bin\Debug\Common.dll
+K:\Bank\learn\JungleWar\GameServer\bin\Debug\MySql.Data.dll
+K:\Bank\learn\JungleWar\GameServer\bin\Debug\Common.pdb
+K:\Bank\learn\JungleWar\GameServer\bin\Debug\MySql.Data.xml
+K:\Bank\learn\JungleWar\GameServer\obj\Debug\GameServer.exe
+K:\Bank\learn\JungleWar\GameServer\obj\Debug\GameServer.pdb

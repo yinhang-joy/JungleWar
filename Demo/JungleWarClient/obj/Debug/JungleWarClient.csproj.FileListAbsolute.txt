@@ -1,0 +1,5 @@
+K:\Bank\learn\JungleWar\JungleWarClient\bin\Debug\JungleWarClient.exe.config
+K:\Bank\learn\JungleWar\JungleWarClient\bin\Debug\JungleWarClient.exe
+K:\Bank\learn\JungleWar\JungleWarClient\bin\Debug\JungleWarClient.pdb
+K:\Bank\learn\JungleWar\JungleWarClient\obj\Debug\JungleWarClient.exe
+K:\Bank\learn\JungleWar\JungleWarClient\obj\Debug\JungleWarClient.pdb
